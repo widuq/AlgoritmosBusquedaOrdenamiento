@@ -1,0 +1,7 @@
+Lenguaje,Algoritmo,Tamano,Tiempo_ns
+Java,BusquedaBinaria,10000,5800
+Java,BusquedaBinaria,100000,3300
+Java,BusquedaBinaria,1000000,4900
+Python,BusquedaBinaria,10000,10900
+Python,BusquedaBinaria,100000,17500
+Python,BusquedaBinaria,1000000,50500
